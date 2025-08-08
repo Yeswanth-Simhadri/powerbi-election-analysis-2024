@@ -1,5 +1,7 @@
 # PowerBI Election analysis-2024
 
+LIVE link : https://app.powerbi.com/view?r=eyJrIjoiMWY1YzAyMmYtYTFjZS00NTYwLTkzZjAtZTNhMjI4ODJiNjU0IiwidCI6IjFjZGYzNGYzLTA4ZjktNDNlYi05ZDRmLTJiYTRhMWQyMGE2ZiJ9&pageName=4c15bb6e8cb3d1b76c10
+
 📊 Interactive Power BI dashboard analyzing the 2024 Andhra Pradesh Parliamentary Election results with party wins, gender stats, and candidate assets.
 
 <img width="2621" height="1589" alt="Screenshot 2025-08-08 161310" src="https://github.com/user-attachments/assets/5c3e90aa-4df3-4a8d-a9c5-b6c46edc8c5d" />
